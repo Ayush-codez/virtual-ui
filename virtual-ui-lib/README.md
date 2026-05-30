@@ -1,8 +1,4 @@
-# 🌐 Live Demo
 
-👉 https://virtual-ui-client.onrender.com
-
----
 
 # Virtual UI
 
@@ -13,7 +9,7 @@ A modern and customizable **React UI Component Library** designed for fast devel
 ## 📦 Install
 
 ```bash
-npm install virtual-ui-lib
+npm install virtual-ui-commponents-library
 ```
 
 ---
@@ -28,7 +24,7 @@ import {
   PricingCard,
   Loader,
   OTPInput
-} from "virtual-ui-lib"
+} from "virtual-ui-commponents-library"
 
 function App() {
   return (
